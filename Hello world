@@ -1,0 +1,9 @@
+//just trying things out 
+
+#include <iostream> 
+Using namespace std; 
+
+Main 
+{ 
+Cout << "hello world!";
+}
